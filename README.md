@@ -1,8 +1,5 @@
-Here’s the documentation in English for both backend and frontend. You can simply copy and use it in your projects:
 
----
-
-### Backend Documentation (`order-management-backend/README.md`)
+### Backend Documentation 
 
 ```markdown
 # Order Management Backend
